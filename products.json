@@ -1,0 +1,860 @@
+[
+  {
+    "code": "MVE001",
+    "category": "Executive Chairs",
+    "description": "Executive & high-back seating",
+    "image": "assets/products/MVE001.webp"
+  },
+  {
+    "code": "MVE002",
+    "category": "Executive Chairs",
+    "description": "Executive & high-back seating",
+    "image": "assets/products/MVE002.webp"
+  },
+  {
+    "code": "MVE003",
+    "category": "Executive Chairs",
+    "description": "Executive & high-back seating",
+    "image": "assets/products/MVE003.webp"
+  },
+  {
+    "code": "MVE004",
+    "category": "Executive Chairs",
+    "description": "Executive & high-back seating",
+    "image": "assets/products/MVE004.webp"
+  },
+  {
+    "code": "MVE005",
+    "category": "Executive Chairs",
+    "description": "Executive & high-back seating",
+    "image": "assets/products/MVE005.webp"
+  },
+  {
+    "code": "MVE006",
+    "category": "Executive Chairs",
+    "description": "Executive & high-back seating",
+    "image": "assets/products/MVE006.webp"
+  },
+  {
+    "code": "MVE007",
+    "category": "Executive Chairs",
+    "description": "Executive & high-back seating",
+    "image": "assets/products/MVE007.webp"
+  },
+  {
+    "code": "MVE008",
+    "category": "Executive Chairs",
+    "description": "Executive & high-back seating",
+    "image": "assets/products/MVE008.webp"
+  },
+  {
+    "code": "MVE009",
+    "category": "Executive Chairs",
+    "description": "Executive & high-back seating",
+    "image": "assets/products/MVE009.webp"
+  },
+  {
+    "code": "MVE010",
+    "category": "Office Chairs",
+    "description": "High-back and ergonomic office seating",
+    "image": "assets/products/MVE010.webp"
+  },
+  {
+    "code": "MVE011",
+    "category": "Office Chairs",
+    "description": "High-back and ergonomic office seating",
+    "image": "assets/products/MVE011.webp"
+  },
+  {
+    "code": "MVE012",
+    "category": "Office Chairs",
+    "description": "High-back and ergonomic office seating",
+    "image": "assets/products/MVE012.webp"
+  },
+  {
+    "code": "MVE013",
+    "category": "Office Chairs",
+    "description": "High-back and ergonomic office seating",
+    "image": "assets/products/MVE013.webp"
+  },
+  {
+    "code": "MVE014",
+    "category": "Office Chairs",
+    "description": "High-back and ergonomic office seating",
+    "image": "assets/products/MVE014.webp"
+  },
+  {
+    "code": "MVE015",
+    "category": "Office Chairs",
+    "description": "High-back and ergonomic office seating",
+    "image": "assets/products/MVE015.webp"
+  },
+  {
+    "code": "MVE016",
+    "category": "Office Chairs",
+    "description": "High-back and ergonomic office seating",
+    "image": "assets/products/MVE016.webp"
+  },
+  {
+    "code": "MVE017",
+    "category": "Office Chairs",
+    "description": "High-back and ergonomic office seating",
+    "image": "assets/products/MVE017.webp"
+  },
+  {
+    "code": "MVE018",
+    "category": "Office Chairs",
+    "description": "High-back and ergonomic office seating",
+    "image": "assets/products/MVE018.webp"
+  },
+  {
+    "code": "MVE019",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE019.webp"
+  },
+  {
+    "code": "MVE020",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE020.webp"
+  },
+  {
+    "code": "MVE021",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE021.webp"
+  },
+  {
+    "code": "MVE022",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE022.webp"
+  },
+  {
+    "code": "MVE023",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE023.webp"
+  },
+  {
+    "code": "MVE024",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE024.webp"
+  },
+  {
+    "code": "MVE025",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE025.webp"
+  },
+  {
+    "code": "MVE026",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE026.webp"
+  },
+  {
+    "code": "MVE027",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE027.webp"
+  },
+  {
+    "code": "MVE028",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE028.webp"
+  },
+  {
+    "code": "MVE029",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE029.webp"
+  },
+  {
+    "code": "MVE030",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE030.webp"
+  },
+  {
+    "code": "MVE031",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE031.webp"
+  },
+  {
+    "code": "MVE032",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE032.webp"
+  },
+  {
+    "code": "MVE033",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE033.webp"
+  },
+  {
+    "code": "MVE034",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE034.webp"
+  },
+  {
+    "code": "MVE035",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE035.webp"
+  },
+  {
+    "code": "MVE036",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE036.webp"
+  },
+  {
+    "code": "MVE037",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE037.webp"
+  },
+  {
+    "code": "MVE038",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE038.webp"
+  },
+  {
+    "code": "MVE039",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE039.webp"
+  },
+  {
+    "code": "MVE040",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE040.webp"
+  },
+  {
+    "code": "MVE041",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE041.webp"
+  },
+  {
+    "code": "MVE042",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE042.webp"
+  },
+  {
+    "code": "MVE043",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE043.webp"
+  },
+  {
+    "code": "MVE044",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE044.webp"
+  },
+  {
+    "code": "MVE045",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE045.webp"
+  },
+  {
+    "code": "MVE046",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE046.webp"
+  },
+  {
+    "code": "MVE047",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE047.webp"
+  },
+  {
+    "code": "MVE048",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE048.webp"
+  },
+  {
+    "code": "MVE049",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE049.webp"
+  },
+  {
+    "code": "MVE050",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE050.webp"
+  },
+  {
+    "code": "MVE051",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE051.webp"
+  },
+  {
+    "code": "MVE052",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE052.webp"
+  },
+  {
+    "code": "MVE053",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE053.webp"
+  },
+  {
+    "code": "MVE054",
+    "category": "Ergonomic Chairs",
+    "description": "Mesh and task seating",
+    "image": "assets/products/MVE054.webp"
+  },
+  {
+    "code": "MVE055",
+    "category": "Visitor Chairs",
+    "description": "Visitor and guest seating",
+    "image": "assets/products/MVE055.webp"
+  },
+  {
+    "code": "MVE056",
+    "category": "Visitor Chairs",
+    "description": "Visitor and guest seating",
+    "image": "assets/products/MVE056.webp"
+  },
+  {
+    "code": "MVE057",
+    "category": "Visitor Chairs",
+    "description": "Visitor and guest seating",
+    "image": "assets/products/MVE057.webp"
+  },
+  {
+    "code": "MVE058",
+    "category": "Visitor Chairs",
+    "description": "Visitor and guest seating",
+    "image": "assets/products/MVE058.webp"
+  },
+  {
+    "code": "MVE059",
+    "category": "Visitor Chairs",
+    "description": "Visitor and guest seating",
+    "image": "assets/products/MVE059.webp"
+  },
+  {
+    "code": "MVE060",
+    "category": "Visitor Chairs",
+    "description": "Visitor and guest seating",
+    "image": "assets/products/MVE060.webp"
+  },
+  {
+    "code": "MVE061",
+    "category": "Visitor Chairs",
+    "description": "Visitor and guest seating",
+    "image": "assets/products/MVE061.webp"
+  },
+  {
+    "code": "MVE062",
+    "category": "Visitor Chairs",
+    "description": "Visitor and guest seating",
+    "image": "assets/products/MVE062.webp"
+  },
+  {
+    "code": "MVE063",
+    "category": "Visitor Chairs",
+    "description": "Visitor and guest seating",
+    "image": "assets/products/MVE063.webp"
+  },
+  {
+    "code": "MVE064",
+    "category": "Plastic Chairs",
+    "description": "Plastic and utility seating",
+    "image": "assets/products/MVE064.webp"
+  },
+  {
+    "code": "MVE065",
+    "category": "Plastic Chairs",
+    "description": "Plastic and utility seating",
+    "image": "assets/products/MVE065.webp"
+  },
+  {
+    "code": "MVE066",
+    "category": "Plastic Chairs",
+    "description": "Plastic and utility seating",
+    "image": "assets/products/MVE066.webp"
+  },
+  {
+    "code": "MVE067",
+    "category": "Plastic Chairs",
+    "description": "Plastic and utility seating",
+    "image": "assets/products/MVE067.webp"
+  },
+  {
+    "code": "MVE068",
+    "category": "Plastic Chairs",
+    "description": "Plastic and utility seating",
+    "image": "assets/products/MVE068.webp"
+  },
+  {
+    "code": "MVE069",
+    "category": "Plastic Chairs",
+    "description": "Plastic and utility seating",
+    "image": "assets/products/MVE069.webp"
+  },
+  {
+    "code": "MVE070",
+    "category": "Plastic Chairs",
+    "description": "Plastic and utility seating",
+    "image": "assets/products/MVE070.webp"
+  },
+  {
+    "code": "MVE071",
+    "category": "Bar Stools",
+    "description": "Bar and counter seating",
+    "image": "assets/products/MVE071.webp"
+  },
+  {
+    "code": "MVE072",
+    "category": "Bar Stools",
+    "description": "Bar and counter seating",
+    "image": "assets/products/MVE072.webp"
+  },
+  {
+    "code": "MVE073",
+    "category": "Bar Stools",
+    "description": "Bar and counter seating",
+    "image": "assets/products/MVE073.webp"
+  },
+  {
+    "code": "MVE074",
+    "category": "Bar Stools",
+    "description": "Bar and counter seating",
+    "image": "assets/products/MVE074.webp"
+  },
+  {
+    "code": "MVE075",
+    "category": "Bar Stools",
+    "description": "Bar and counter seating",
+    "image": "assets/products/MVE075.webp"
+  },
+  {
+    "code": "MVE076",
+    "category": "Bar Stools",
+    "description": "Bar and counter seating",
+    "image": "assets/products/MVE076.webp"
+  },
+  {
+    "code": "MVE077",
+    "category": "Training Chairs",
+    "description": "Training and writing chairs",
+    "image": "assets/products/MVE077.webp"
+  },
+  {
+    "code": "MVE078",
+    "category": "Training Chairs",
+    "description": "Training and writing chairs",
+    "image": "assets/products/MVE078.webp"
+  },
+  {
+    "code": "MVE079",
+    "category": "Training Chairs",
+    "description": "Training and writing chairs",
+    "image": "assets/products/MVE079.webp"
+  },
+  {
+    "code": "MVE080",
+    "category": "Training Chairs",
+    "description": "Training and writing chairs",
+    "image": "assets/products/MVE080.webp"
+  },
+  {
+    "code": "MVE081",
+    "category": "Training Chairs",
+    "description": "Training and writing chairs",
+    "image": "assets/products/MVE081.webp"
+  },
+  {
+    "code": "MVE082",
+    "category": "Waiting Seating",
+    "description": "Waiting-area bench seating",
+    "image": "assets/products/MVE082.webp"
+  },
+  {
+    "code": "MVE083",
+    "category": "Waiting Seating",
+    "description": "Waiting-area bench seating",
+    "image": "assets/products/MVE083.webp"
+  },
+  {
+    "code": "MVE084",
+    "category": "Waiting Seating",
+    "description": "Waiting-area bench seating",
+    "image": "assets/products/MVE084.webp"
+  },
+  {
+    "code": "MVE085",
+    "category": "Waiting Seating",
+    "description": "Waiting-area bench seating",
+    "image": "assets/products/MVE085.webp"
+  },
+  {
+    "code": "MVE086",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE086.webp"
+  },
+  {
+    "code": "MVE087",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE087.webp"
+  },
+  {
+    "code": "MVE088",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE088.webp"
+  },
+  {
+    "code": "MVE089",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE089.webp"
+  },
+  {
+    "code": "MVE090",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE090.webp"
+  },
+  {
+    "code": "MVE091",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE091.webp"
+  },
+  {
+    "code": "MVE092",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE092.webp"
+  },
+  {
+    "code": "MVE093",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE093.webp"
+  },
+  {
+    "code": "MVE094",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE094.webp"
+  },
+  {
+    "code": "MVE095",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE095.webp"
+  },
+  {
+    "code": "MVE096",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE096.webp"
+  },
+  {
+    "code": "MVE097",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE097.webp"
+  },
+  {
+    "code": "MVE098",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE098.webp"
+  },
+  {
+    "code": "MVE099",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE099.webp"
+  },
+  {
+    "code": "MVE100",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE100.webp"
+  },
+  {
+    "code": "MVE101",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE101.webp"
+  },
+  {
+    "code": "MVE102",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE102.webp"
+  },
+  {
+    "code": "MVE103",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE103.webp"
+  },
+  {
+    "code": "MVE104",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE104.webp"
+  },
+  {
+    "code": "MVE105",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE105.webp"
+  },
+  {
+    "code": "MVE106",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE106.webp"
+  },
+  {
+    "code": "MVE107",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE107.webp"
+  },
+  {
+    "code": "MVE108",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE108.webp"
+  },
+  {
+    "code": "MVE109",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE109.webp"
+  },
+  {
+    "code": "MVE110",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE110.webp"
+  },
+  {
+    "code": "MVE111",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE111.webp"
+  },
+  {
+    "code": "MVE112",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE112.webp"
+  },
+  {
+    "code": "MVE113",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE113.webp"
+  },
+  {
+    "code": "MVE114",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE114.webp"
+  },
+  {
+    "code": "MVE115",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE115.webp"
+  },
+  {
+    "code": "MVE116",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE116.webp"
+  },
+  {
+    "code": "MVE117",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE117.webp"
+  },
+  {
+    "code": "MVE118",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE118.webp"
+  },
+  {
+    "code": "MVE119",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE119.webp"
+  },
+  {
+    "code": "MVE120",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE120.webp"
+  },
+  {
+    "code": "MVE121",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE121.webp"
+  },
+  {
+    "code": "MVE122",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE122.webp"
+  },
+  {
+    "code": "MVE123",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE123.webp"
+  },
+  {
+    "code": "MVE124",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE124.webp"
+  },
+  {
+    "code": "MVE125",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE125.webp"
+  },
+  {
+    "code": "MVE126",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE126.webp"
+  },
+  {
+    "code": "MVE127",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE127.webp"
+  },
+  {
+    "code": "MVE128",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE128.webp"
+  },
+  {
+    "code": "MVE129",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE129.webp"
+  },
+  {
+    "code": "MVE130",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE130.webp"
+  },
+  {
+    "code": "MVE131",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE131.webp"
+  },
+  {
+    "code": "MVE132",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE132.webp"
+  },
+  {
+    "code": "MVE133",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE133.webp"
+  },
+  {
+    "code": "MVE134",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE134.webp"
+  },
+  {
+    "code": "MVE135",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE135.webp"
+  },
+  {
+    "code": "MVE136",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE136.webp"
+  },
+  {
+    "code": "MVE137",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE137.webp"
+  },
+  {
+    "code": "MVE138",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE138.webp"
+  },
+  {
+    "code": "MVE139",
+    "category": "Chair Parts",
+    "description": "Mechanisms, lifts, armrests, bases and fittings",
+    "image": "assets/products/MVE139.webp"
+  },
+  {
+    "code": "MVE140",
+    "category": "Seat Components",
+    "description": "Seat and chair shell components",
+    "image": "assets/products/MVE140.webp"
+  },
+  {
+    "code": "MVE141",
+    "category": "Seat Components",
+    "description": "Seat and chair shell components",
+    "image": "assets/products/MVE141.webp"
+  },
+  {
+    "code": "MVE142",
+    "category": "Seat Components",
+    "description": "Seat and chair shell components",
+    "image": "assets/products/MVE142.webp"
+  },
+  {
+    "code": "MVE143",
+    "category": "Seat Components",
+    "description": "Seat and chair shell components",
+    "image": "assets/products/MVE143.webp"
+  }
+]

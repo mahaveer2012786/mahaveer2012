@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Mahaveer Enterprises - office chairs, ergonomic seating, visitor chairs, waiting seating and chair parts. Explore the 143-item catalogue and enquire for a quote.">
+  <title>Mahaveer Enterprises | Office Chairs & Chair Parts</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header" id="top">
+    <div class="container nav-wrap">
+      <a class="brand" href="#top" aria-label="Mahaveer Enterprises home">
+        <span class="brand-mark">M</span>
+        <span class="brand-text"><strong>Mahaveer</strong><em>Enterprises</em></span>
+      </a>
+      <button class="menu-btn" id="menuBtn" aria-label="Open navigation" aria-expanded="false">☰</button>
+      <nav class="nav" id="nav">
+        <a href="#products">Products</a>
+        <a href="#parts">Chair Parts</a>
+        <a href="#about">About</a>
+        <a href="#catalogue">Catalogue</a>
+        <a class="nav-cta" href="#contact">Get a Quote</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <div class="eyebrow">Office Seating & Chair Components</div>
+          <h1>Comfort that works.<br><span>Parts that keep it moving.</span></h1>
+          <p>Explore Mahaveer Enterprises' catalogue of executive chairs, ergonomic seating, visitor chairs, waiting benches and chair parts.</p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="#products">Browse Products</a>
+            <a class="btn btn-secondary" href="mailto:mahaveerenterprises@gmail.com?subject=Mahaveer%20Enterprises%20-%20Product%20Enquiry">Email for Enquiry</a>
+          </div>
+          <div class="hero-meta">
+            <div><strong>143</strong><span>Catalogue items</span></div>
+            <div><strong>10</strong><span>Product ranges</span></div>
+            <div><strong>Bengaluru</strong><span>Based in Karnataka</span></div>
+          </div>
+        </div>
+        <div class="hero-card">
+          <img src="assets/catalogue-cover.webp" alt="Mahaveer Enterprises catalogue cover showing an office chair">
+          <div class="hero-card-label"><span>Specialist in</span> Office Chair Parts · Relaxing Chair · Fabric</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="strip">
+      <div class="container strip-inner">
+        <span>Browse by range</span>
+        <div id="quickFilters" class="quick-filters"></div>
+      </div>
+    </section>
+
+    <section class="section" id="products">
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow">Catalogue</div>
+            <h2>Every item, one place.</h2>
+            <p>Use the filters or search by product code to find the right catalogue image.</p>
+          </div>
+          <div class="search-box">
+            <span>⌕</span><input id="searchInput" type="search" placeholder="Search MVE001…" aria-label="Search products">
+          </div>
+        </div>
+
+        <div id="filters" class="filters" role="tablist" aria-label="Product categories"></div>
+        <div id="productGrid" class="product-grid"></div>
+        <div id="emptyState" class="empty-state" hidden>
+          <h3>No matching products</h3>
+          <p>Try another code or clear the category filter.</p>
+          <button class="btn btn-secondary" id="clearBtn">Clear filters</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="feature-section" id="parts">
+      <div class="container split">
+        <div>
+          <div class="eyebrow">Chair Parts</div>
+          <h2>Build, repair and refresh with the parts range.</h2>
+          <p>The catalogue includes mechanisms, gas lifts, castors, armrests, bases and other chair fittings. Every part carries its catalogue code so your enquiry can start from a precise reference.</p>
+          <a class="text-link" href="#products" data-category-link="Chair Parts">View chair parts <span>→</span></a>
+        </div>
+        <div class="part-collage" id="partCollage"></div>
+      </div>
+    </section>
+
+    <section class="section about" id="about">
+      <div class="container about-grid">
+        <div>
+          <div class="eyebrow">Mahaveer Enterprises</div>
+          <h2>A catalogue-led website for faster product discovery.</h2>
+          <p>This website presents the attached Mahaveer Enterprises product catalogue as a searchable digital catalogue. Product codes and visual references are retained from the supplied catalogue, making enquiries easier to identify and share.</p>
+          <div class="about-points">
+            <div><span>01</span><strong>Visual catalogue</strong><small>All 143 catalogue images are presented as products.</small></div>
+            <div><span>02</span><strong>Simple enquiries</strong><small>Call or email with the MVE code you need.</small></div>
+            <div><span>03</span><strong>Responsive layout</strong><small>Designed for desktop, tablet and mobile browsing.</small></div>
+          </div>
+        </div>
+        <div class="quote-panel">
+          <div class="quote-mark">“</div>
+          <p>Office seating, chair parts and accessories - organised around the catalogue codes customers can actually quote.</p>
+          <div class="quote-line"></div>
+          <span>Mahaveer Enterprises</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="catalogue-section" id="catalogue">
+      <div class="container catalogue-card">
+        <div>
+          <div class="eyebrow">Source Catalogue</div>
+          <h2>Need the original catalogue?</h2>
+          <p>Open the supplied 12-page catalogue for the original product presentation and code references.</p>
+        </div>
+        <a class="btn btn-light" href="assets/Mahaveer-Product-Catalogue.pdf" target="_blank" rel="noopener">Open Catalogue PDF</a>
+      </div>
+    </section>
+
+    <section class="contact-section" id="contact">
+      <div class="container contact-grid">
+        <div>
+          <div class="eyebrow">Contact</div>
+          <h2>Tell us what you need.</h2>
+          <p>Use the product code from the catalogue and send an enquiry for availability, specifications or pricing.</p>
+        </div>
+        <div class="contact-card">
+          <a href="tel:+919632220959"><span>Mobile</span><strong>96322 20593</strong></a>
+          <a href="tel:+918233563421"><span>Mobile</span><strong>82335 63421</strong></a>
+          <a href="mailto:mahaveerenterprises@gmail.com"><span>Email</span><strong>mahaveerenterprises@gmail.com</strong></a>
+          <div class="address"><span>Address</span><strong>#96, MM Complex, Nehru Road<br>New Guddadahalli, Mysore Road<br>Bengaluru - 560 026</strong></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div><strong>Mahaveer Enterprises</strong><span>Office Seating · Chair Parts · Fabric</span></div>
+      <div>© <span id="year"></span> Mahaveer Enterprises</div>
+    </div>
+  </footer>
+
+  <div class="modal" id="productModal" hidden>
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-dialog" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <button class="modal-close" aria-label="Close" data-close>×</button>
+      <div class="modal-image"><img id="modalImg" alt=""></div>
+      <div class="modal-copy">
+        <div class="eyebrow" id="modalCategory"></div>
+        <h3 id="modalTitle"></h3>
+        <p id="modalDesc"></p>
+        <div class="modal-code" id="modalCode"></div>
+        <a id="modalEmail" class="btn btn-primary" href="#">Enquire by email</a>
+      </div>
+    </div>
+  </div>
+
+  <script src="app-data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
